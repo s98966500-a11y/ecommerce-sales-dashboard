@@ -51,6 +51,8 @@ The dataset contains 5,000 e-commerce orders with information including:
 
 The dashboard is deployed using Streamlit Community Cloud.
 
+👉 [View Live Dashboard](https://ecommerce-sales-dashboard-mmustfzibawj3sdyqhha3e.streamlit.app/)
+
 ## 👩‍💻 Project Outcome
 
 The project provides an interactive view of sales and customer data and helps identify patterns in revenue, categories, regions, customer segments and delivery performance.
